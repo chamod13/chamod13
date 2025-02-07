@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m an undergraduate at **Adavanced Technological Institute HNDIT**
+- 🔭 I’m an undergraduate at **Adavanced Technological Institute SLIATE HNDIT**
 
 - 💬 Ask me about **Web Development**
 
